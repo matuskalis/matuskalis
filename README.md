@@ -12,7 +12,7 @@ part I can show.
 - **[shipfourteen.com](https://shipfourteen.com)** - what I do and what it costs.
 - **[create.shipfourteen.com](https://create.shipfourteen.com)** - takes a client's existing site and renders six design directions from their own content, then publishes a preview link.
 - **[matuskalis.github.io/cutting-room](https://matuskalis.github.io/cutting-room/)** - sixteen case studies of design and build work, labelled honestly: shipped, client rebuild, or concept.
-- **[asknim.vercel.app](https://asknim.vercel.app)** - chat assistant for language-school sites, currently behind a coming-soon screen.
+
 
 ### Selected work
 
