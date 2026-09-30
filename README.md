@@ -24,6 +24,10 @@ part I can show.
 | [codesentinel](https://github.com/matuskalis/codesentinel) | Deterministic scanner that catches hardcoded secrets and env leaks before a Next.js app ships. CLI plus a GitHub Action. |
 | [terminal-techno](https://github.com/matuskalis/terminal-techno) | Six-track techno sequencer that runs in a terminal. Every sound synthesised in Python, no samples. |
 | [ball-simulator](https://github.com/matuskalis/ball-simulator) | You describe a physics video, a coding agent writes the scene config, Remotion renders it with one melody note per bounce. |
+| [autoskill](https://github.com/matuskalis/autoskill) | Finds the right Claude Code skill for each prompt in a rated catalog of 24,000 public skills and installs it pinned to a commit, after a local safety scan. |
+| [hackradar](https://github.com/matuskalis/hackradar) | Map of hackathons in Central Europe with radius search by place, date and topic. Next.js, PostGIS, MapLibre. |
+| [lidfold](https://github.com/matuskalis/lidfold) | iPhone Duo fold animation on a MacBook, driven 1:1 by the real lid angle sensor. Swift. |
+| [climbvision](https://github.com/matuskalis/climbvision) | Computer-vision telemetry for indoor bouldering that records where every number came from. Stage 1 of 8, video ingest, is built and tested. |
 
 ### Contact
 
