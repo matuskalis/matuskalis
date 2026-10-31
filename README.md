@@ -28,8 +28,6 @@ With my InVenture Mind team I am developing an EEG sleep headband concept: it re
 | [autoskill](https://github.com/matuskalis/autoskill) | Finds the right Claude Code skill for each prompt in a rated, daily-rebuilt catalog of 24k public skills, installs it pinned to a commit after a local safety scan. |
 | [stilltrim](https://github.com/matuskalis/stilltrim) | iPhone photo cleaner that runs entirely on the device. Nothing leaves the phone. |
 | [lidfold](https://github.com/matuskalis/lidfold) | iPhone Duo fold animation on a MacBook, driven 1:1 by the real lid-angle sensor. |
-| [codesentinel](https://github.com/matuskalis/codesentinel) | Deterministic scanner for Next.js stacks: hardcoded secrets, env leaks into the client bundle, misconfigurations. CLI and GitHub Action. |
-| [ball-simulator](https://github.com/matuskalis/ball-simulator) | Describe a physics video in plain language; an agent writes the scene, a deterministic simulation and Remotion render it with a note on every bounce. |
 | [terminal-techno](https://github.com/matuskalis/terminal-techno) | Live techno sequencer in the terminal: six voices synthesised from scratch in numpy, oscilloscope and spectrum analyser. |
 
 ### Contact
