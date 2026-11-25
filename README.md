@@ -25,7 +25,7 @@ With my InVenture Mind team I am developing an EEG sleep headband concept: it re
 | Repository | What it is |
 |---|---|
 | [claude-deck](https://github.com/matuskalis/claude-deck) | macOS menu bar app that shows live Claude Code sessions, background jobs, plan limits and spend. Swift, no dependencies, 17 releases. |
-| [autoskill](https://github.com/matuskalis/autoskill) | Finds the right Claude Code skill for each prompt in a rated, daily-rebuilt catalog of 24k public skills, installs it pinned to a commit after a local safety scan. |
+| [autoskill](https://github.com/matuskalis/autoskill) | Finds the right Claude Code skill for each prompt in a rated, daily-rebuilt catalog of 23k public skills, installs it pinned to a commit after a local safety scan. |
 | [stilltrim](https://github.com/matuskalis/stilltrim) | iPhone photo cleaner that runs entirely on the device. Nothing leaves the phone. |
 | [lidfold](https://github.com/matuskalis/lidfold) | iPhone Duo fold animation on a MacBook, driven 1:1 by the real lid-angle sensor. |
 | [terminal-techno](https://github.com/matuskalis/terminal-techno) | Live techno sequencer in the terminal: six voices synthesised from scratch in numpy, oscilloscope and spectrum analyser. |
